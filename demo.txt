@@ -1,0 +1,2 @@
+//! 1) open git bash >> write cd backend >> then npm i
+//! 2) then cd .. >> cd frontend >> npm i 
